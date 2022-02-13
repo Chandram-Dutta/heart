@@ -10,10 +10,10 @@ ThemeData lightTheme = ThemeData(
   ),
   appBarTheme: AppBarTheme(
     backgroundColor: teal,
-    foregroundColor: black,
-    titleTextStyle:  TextStyle(
+    foregroundColor: white,
+    titleTextStyle: TextStyle(
       fontWeight: FontWeight.bold,
-      color: black,
+      color: white,
     ),
     elevation: 0,
   ),
